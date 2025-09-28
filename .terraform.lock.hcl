@@ -3,7 +3,7 @@
 
 provider "registry.terraform.io/akamai/akamai" {
   version     = "9.0.1"
-  constraints = ">= 6.1.0"
+  constraints = "~> 9.0.1"
   hashes = [
     "h1:wdKqyF3xUDBv6VO8CpoxWp6FVjPdahOO7mGx4osmZs4=",
     "zh:0c6d8e837dcf92c171e25e1fcd07f809bf25edb07f45ec513beb9d08f0fec6f1",
