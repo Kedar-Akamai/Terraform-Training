@@ -1,12 +1,1 @@
-[default]
-client_secret = uDn1RVr6i1eVPtrFTnroPvUYnvmF0qUHAJvAo9YfSAQ=
-host = akab-k36m6f7vj6zz7463-s57pjmjkzee2eja6.luna.akamaiapis.net
-access_token = akab-22ztgldw66gnb3f2-frz3poe6t54iclbh
-client_token = akab-yunz4mhskkhqseeo-efoqgbos4ffoqaeu
 
-[test1]
-client_secret = uDn1RVr6i1eVPtrFTnroPvUYnvmF0qUHAJvAo9YfSAQ=
-host = akab-k36m6f7vj6zz7463-s57pjmjkzee2eja6.luna.akamaiapis.net
-access_token = akab-22ztgldw66gnb3f2-frz3poe6t54iclbh
-client_token = akab-yunz4mhskkhqseeo-efoqgbos4ffoqaeu
-account_key=B-V-3VC1HCT:1-2RBL
